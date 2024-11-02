@@ -1,0 +1,38 @@
+# React Native / Expo
+# Dependency directories
+/client/node_modules/
+/client/npm-debug.log
+/client/yarn-error.log
+
+# Expo specific
+/client/.expo/
+/client/.expo-shared/
+/client/web-build/
+/client/dist/
+
+# Build artifacts
+/client/android/.gradle/
+/client/android/app/build/
+/client/ios/build/
+/client/ios/Pods/
+/client/ios/*.xcodeproj/
+/client/ios/*.xcworkspace/
+/client/ios/DerivedData/
+/client/*.swp
+/client/*.lock
+/client/package-lock.json
+
+# Environment variables
+/client/.env
+/client/*.jks
+# OS generated files
+/client/.DS_Store
+/client/Thumbs.db
+
+# Logs
+/client/logs
+/client/*.log
+
+/server/node_modules
+/server/package-lock.json
+/server/.env
